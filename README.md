@@ -105,7 +105,8 @@ else:
 ![image](https://github.com/KUSHALI104/Search-Algorithm/assets/150231135/d3cba96d-133b-4098-a646-ee8312dae62f)
 ## output:
 ![image](https://github.com/KUSHALI104/Search-Algorithm/assets/150231135/3a679a0a-2be5-4f38-9e11-f7b0f5c1f237)
-![image](https://github.com/KUSHALI104/Search-Algorithm/assets/150231135/678958e2-9f65-47d8-869d-660383c92fae)
-![image](https://github.com/KUSHALI104/Search-Algorithm/assets/150231135/66863829-5128-421c-8c61-be623e686b5f)
+![image](https://github.com/KUSHALI104/Search-Algorithm/assets/150231135/42483b2f-0d93-40de-ad84-5d804c5588e7)
+![image](https://github.com/KUSHALI104/Search-Algorithm/assets/150231135/ead13af2-0b30-46e5-9d35-aa70c1cf0a0e)
+
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
