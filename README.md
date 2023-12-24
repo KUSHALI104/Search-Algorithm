@@ -41,6 +41,8 @@ else:
     print(array)
     print("Element found at index: ",result)
 ```
+
+
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
 ''' 
@@ -69,6 +71,8 @@ else:
     print(array)
     print("Element found at index: ",result)
 ```
+
+
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
